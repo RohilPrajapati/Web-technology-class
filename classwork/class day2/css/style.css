@@ -1,0 +1,72 @@
+*{
+	padding: 0px;
+	margin: 0px;
+}
+
+.nav{
+	width: 100%;
+	line-height: 50px;
+	background: rgba(0, 0, 0, 0.5);
+}
+
+.brand-name{
+	margin: 0px 50px;
+	display: inline-block;
+	color: white;
+}
+.menu{
+	display: inline-block;
+}
+li{
+	display: inline-block;
+	padding: 0px 20px;
+}
+.nav-item{
+	text-decoration: none;
+	color: white;
+}
+.computer_img{
+	width: 70%px;
+	height: 400px;
+	margin: 20px auto;
+	display: block;
+}
+.buttom-nav{
+	text-align: center;
+}
+
+/* contact css */
+
+.contact-title{
+	text-align: center;
+}
+
+.box{
+	width: 60%;
+	margin: 50px auto;
+	background: lightblue;
+	text-align: center;
+}
+form{
+	padding: 100px 0px;
+}
+.input-item{
+	margin: 5px 0px;
+}
+.input-field{
+	width: 200px;
+	height: 30px;
+}
+.text-field{
+	width: 200px;
+	height: 100px;
+}
+
+
+
+
+
+
+
+
+
