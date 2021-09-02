@@ -1,0 +1,127 @@
+*{
+	padding: 0px;
+	margin: 0px;
+	color: #18446b;
+}
+.result_body{
+	border: 1px solid black;
+	width: 80%;
+	margin: 5px auto;
+	padding: 20px;
+}
+.numbers{
+	display: inline-block;
+	width: 100%;
+}
+.issue_no{
+	width: 50%;
+	float: left;
+}
+.hseb_reg_no{
+	width: 50%;
+	float: right;
+	text-align: right;
+}
+.header{
+	width: 100%;
+	margin: 20px 0px;
+}
+.logo{
+	height: 120px;
+	width: 120px;
+}
+.detail_hseb{
+	width: 85%;
+	float: right;
+	text-align: center;
+}
+.student_info{
+	line-height: 30px;
+	width: 100%;
+}
+.school{
+	display: inline-block;
+	width: 50%;
+	float: right;
+	text-align: center;
+}
+
+.tables{
+	width: 100%;
+	display: flex;
+	margin: 30px 0px;
+}
+.left{
+	/*background: red;*/
+	width: 65%;
+}
+.right{
+	/*background: yellow;*/
+	width: 35%;
+}
+
+
+table, tr, th, td{
+	border: 1px solid #18446b;
+	border-collapse: collapse;
+}
+th,td{
+	height: 20px;
+	padding: 5px 15px;
+	font-size: 14px;
+}
+td{
+
+}
+
+.noborders td, .noborders {
+    border:0px;
+    border-right: 1px solid #18446b;
+}
+
+.footer_table td , .footer_table{
+	height: 150px;
+	border: 0px;
+}
+
+
+.marks_sheet{
+	width: 95%;
+}
+.subject{
+	width: 50%;
+}
+
+.side_table_1, .side_table_2{
+	margin: 20px 0px;
+	width: 100%;
+	text-align: center;
+}
+
+.signature{
+	padding-top: 50px;
+	text-align: center;
+}
+.footer{
+	margin: 30px 0px;
+	width: 100%;
+	display: flex;
+}
+.footer_left{
+	width: 50%;
+}
+.footer_right{
+	width: 50%;
+}
+.grading_list{
+	list-style: none;
+}
+.note{
+	display: flex;
+}
+.note h3{
+	width: 20%;
+}
+.note .grading_list{
+	width: 75%;
+}
