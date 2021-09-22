@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding = "UTF-8"?>
+<studends>
+    <student>
+        <name>Aman</name>
+        <address>Naya bazzar</address>
+    </student>
+    <student>
+        <name>Nhujan</name>
+        <address>Asan</address>
+    </student>
+    <student>
+        <name>Reetush</name>
+        <address>samakhusi</address>
+    </student>
+    <student>
+        <name>Samita</name>
+        <address>Bhaktapur</address>
+    </student>
+</studends>

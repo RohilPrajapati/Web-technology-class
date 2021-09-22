@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- write an xml to list 3 animal of your choice IT must contain an attribute sound -->
+
+<animals>
+    <animal sound="meow">
+        <name>Cat</name>
+    </animal>
+    <animal sound="Woff">
+        <name>Dog</name>
+    </animal>
+    <animal sound="zees zees">
+        <name>bee</name>
+    </animal>
+</animals>
